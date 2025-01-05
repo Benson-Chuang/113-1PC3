@@ -20,16 +20,16 @@
 Ans:
 
 二元樹(binary tree)
-![image](binary tree.jpg)
+![image](binary%20tree.jpg)
 
 二元搜尋樹(binary searched tree)
-![image](binary scearch tree.jpg)
+![image](binarysearched%20tree.jpg)
 
 AVL樹
-![image](AVL tree.jpg)
+![image](AVL%20tree.jpg)
 
 最⼤堆積樹(max-heap tree)
-![image](max-heap tree.jpg)
+![image](max-heap%20tree.jpg)
 
 2. (請參照題目pdf)
 
